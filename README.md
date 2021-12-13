@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Marco Teniente; pursuing a bachelors in Data Science and Statistics.
+- 👀 I’m interested in: Japanese language and culture, hypothesis testing, normally-distributed data. 
+- 🌱 I’m currently learning: R & SAS programming, probability theory, Supervised and Unsupervised Machine Learning algorithms, data management (extraction, transformation, and loading).
+- 💞️ I’m looking to collaborate on: any data-science/analytics related endeavors.
+- 📫 How to reach me: dpmarco02@gmail.com
