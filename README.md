@@ -1,4 +1,4 @@
-- 👋 Greetings, I’m Marco Teniente; pursuing a Bachelor of Science in Data Science and Statistics.
+- 👋 Greetings, I’m Marco Teniente; pursuing a Bachelor of Science in Data Science and Statistics. (2020-2024)
 - 👀 I’m interested in: Bioinformatics, Climate Change, Data Mining, Business Analytics. 
 - 🌱 I’m currently learning: Time Series, Symbolic/Interval-Valued Data Analysis
 - 💞️ I’m looking to collaborate on: Various Data Science-Related endeavors, Message for Enquires
